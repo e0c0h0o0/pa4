@@ -1,0 +1,14 @@
+Describe any design decisions you made.
+Nothing big, in join, I choose to save join result into an vector, then maintain the iterator of that vector, that make things easier.
+
+Discuss and justify any changes you made to the API.
+Nothing changed to API.
+
+Describe any missing or incomplete elements of your code.
+I did not implement the bonus part, aka. the string aggregator.
+
+Describe how long you spent on the assignment, and whether there was anything you found particularly difficult or confusing.
+I spend around 14 hours for this assignment. The most difficult part is considering the IntegerAggregator, I have to consider two situations.
+
+If you collaborate with someone else, you have to describe how you split the workload.
+I have done this job alone.
